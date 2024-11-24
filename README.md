@@ -145,6 +145,6 @@ Navigate to the frontend directory and start the development server:
 
 `npm run dev`
 
-Contributions
+
 
 ### by Tomas Manazza
