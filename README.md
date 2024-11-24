@@ -5,6 +5,9 @@
 
 Country Search is an application designed to search for and provide basic information about 114 countries. It is developed using modern technologies like React, Vite, Nest.js, TypeScript, and Tailwind CSS, and it utilizes environment variables stored in .env files for configuration.
 
+![image](https://github.com/user-attachments/assets/17bbadc5-8985-4a0e-837c-e86d7feed324)
+
+
 ### Features:
 
 Interactive User Interface: Built with React and styled with Tailwind CSS for a smooth and attractive user experience.
@@ -144,6 +147,7 @@ Navigate to the frontend directory and start the development server:
 
 
 `npm run dev`
+
 
 
 
