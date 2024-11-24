@@ -109,7 +109,7 @@ REST Countries API: Provides comprehensive information about the 114 selected co
 Clone this repository to your local machine using the following command in the terminal:
 
 bash
-git clone https://github.com/TomasManazza80/CountriesSearch.git
+git clone https://github.com/TomasManazza80/CountriesWeb.git
 
 ### Step 2: Install Dependencies
 Navigate to the project directory and install the dependencies for both the frontend and backend. You can do this by running the following commands:
